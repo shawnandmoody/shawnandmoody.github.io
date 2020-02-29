@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shawnandmoody.github.io</id>
     <title>Shawn &amp; Moody</title>
-    <updated>2020-01-19T06:00:25.131Z</updated>
+    <updated>2020-02-29T06:26:13.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shawnandmoody.github.io"/>
     <link rel="self" href="https://shawnandmoody.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Shawn &amp; Moody</rights>
     <entry>
         <title type="html"><![CDATA[真香 - 2019.12]]></title>
-        <id>https://shawnandmoody.github.io/post/zhen-xiang-201912</id>
-        <link href="https://shawnandmoody.github.io/post/zhen-xiang-201912">
+        <id>https://shawnandmoody.github.io/post/zhen-xiang-201912/</id>
+        <link href="https://shawnandmoody.github.io/post/zhen-xiang-201912/">
         </link>
         <updated>2019-12-31T03:54:20.000Z</updated>
         <summary type="html"><![CDATA[<p>numnumnum</p>
@@ -21,15 +21,6 @@
         <content type="html"><![CDATA[<p>numnumnum</p>
 <!-- more -->
 <p>test1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://shawnandmoody.github.io/post/about</id>
-        <link href="https://shawnandmoody.github.io/post/about">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>Hi there, This is Shawn and Moody.  Welcome!</strong></p>
 ]]></content>
     </entry>
 </feed>
