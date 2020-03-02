@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shawnandmoody.github.io</id>
     <title>Shawn &amp; Moody</title>
-    <updated>2020-03-02T09:14:18.707Z</updated>
+    <updated>2020-03-02T14:13:24.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shawnandmoody.github.io"/>
     <link rel="self" href="https://shawnandmoody.github.io/atom.xml"/>
@@ -88,6 +88,27 @@ num num num</p>
 <img src="https://i.loli.net/2020/03/02/R9kGq1aHeDzm47M.jpg" alt="IMG_2173.jpg" loading="lazy"><br>
 <img src="https://i.loli.net/2020/03/02/h1aQ97iZDRBA5Cn.jpg" alt="IMG_2122.jpg" loading="lazy"><br>
 <img src="https://i.loli.net/2020/03/02/IU4yWFHuSi5vQRn.jpg" alt="IMG_2159.jpg" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[  香，就一个字。2020.01-4]]></title>
+        <id>https://shawnandmoody.github.io/post/xiang-jiu-yi-ge-zi-202001-4/</id>
+        <link href="https://shawnandmoody.github.io/post/xiang-jiu-yi-ge-zi-202001-4/">
+        </link>
+        <updated>2020-01-31T14:08:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>你和真香，<br>
+只有一步之遥。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>你和真香，<br>
+只有一步之遥。</p>
+<!-- more -->
+<p><img src="https://i.loli.net/2020/03/02/7fGK9xmZdEoOzBW.jpg" alt="IMG_2045.jpg" loading="lazy"><br>
+<img src="https://i.loli.net/2020/03/02/8BdZX6fIS1RK9pg.jpg" alt="IMG_2119.jpg" loading="lazy"><br>
+<img src="https://i.loli.net/2020/03/02/9kngmt8vWAch4Jq.jpg" alt="IMG_2061.jpg" loading="lazy"><br>
+<img src="https://i.loli.net/2020/03/02/XcNoBixlE4I9tGp.jpg" alt="IMG_2058.jpg" loading="lazy"><br>
+<img src="https://i.loli.net/2020/03/02/6kHASnvKqW9sUwE.jpg" alt="IMG_2081.jpg" loading="lazy"><br>
+<img src="https://i.loli.net/2020/03/02/T1eFEZGwjAJ9cNf.jpg" alt="IMG_2068.jpg" loading="lazy"><br>
+<img src="https://i.loli.net/2020/03/02/c6MUW7vT2dquBCL.jpg" alt="IMG_2117.jpg" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
